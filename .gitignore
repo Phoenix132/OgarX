@@ -1,16 +1,1 @@
-# Node modules
-node_modules/*
 
-.vscode*
-
-config.json*
-
-src/modes/custom/*
-
-debug.log*
-
-public/js/*
-
-ssl/*
-
-*.sock*
